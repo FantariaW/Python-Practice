@@ -1,0 +1,14 @@
+1.go
+2.and
+3.move
+4.<__main__.MemoryRecorder object at 0x000001A582076900>
+5.<__main__.MemoryRecorder object at 0x0000022345246900>
+6.Test 2
+7.3
+8.3
+9.a
+10.bb
+11.cc
+12.abc
+13.cba
+14.New Test

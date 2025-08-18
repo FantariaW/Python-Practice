@@ -1,0 +1,5 @@
+nickname,phone,password,flavor-code,type,status
+Aaa,0911111111,1111111111,FLV-000,Cake,No
+Bbb,0900000000,000000,FLV-699,Pudding,No
+Ccc,0952101314,1234567890,FLV-888,Cake,No
+Test,0912345678,1888888881,FLV-777,Donut,Yes

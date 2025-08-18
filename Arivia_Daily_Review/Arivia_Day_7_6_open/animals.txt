@@ -1,0 +1,4 @@
+1.[🐰] A - Rabbit -- Haven't Adopt! [❌]
+2.[🐶] B - Dog -- Haven't Adopt! [❌]
+3.[🐱] C - Cat -- Adopted! [✅]
+4.[🐶] D - Dog -- Adopted! [✅]

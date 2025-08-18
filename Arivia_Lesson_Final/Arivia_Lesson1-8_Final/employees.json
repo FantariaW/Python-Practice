@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Arivia Moon",
+        "age": "24",
+        "department": "IT",
+        "year": "2023",
+        "password": "1314520"
+    },
+    {
+        "name": "Destina Light",
+        "age": "27",
+        "department": "HR",
+        "year": "2023",
+        "password": "333333"
+    },
+    {
+        "name": "Erin Heart",
+        "age": "24",
+        "department": "Marketing",
+        "year": "2023",
+        "password": "88888888"
+    },
+    {
+        "name": "Test Name",
+        "age": "21",
+        "department": "IT",
+        "year": "2000",
+        "password": "333333"
+    },
+    {
+        "name": "Test Two",
+        "age": "18",
+        "department": "IT",
+        "year": "2000",
+        "password": "000000"
+    },
+    {
+        "name": "Test Three",
+        "age": "18",
+        "department": "IT",
+        "year": "2000",
+        "password": "000000"
+    },
+    {
+        "name": "Test Four",
+        "age": "18",
+        "department": "IT",
+        "year": "2000",
+        "password": "1314520"
+    }
+]
