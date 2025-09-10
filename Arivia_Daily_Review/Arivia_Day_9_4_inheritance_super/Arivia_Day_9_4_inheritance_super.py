@@ -63,6 +63,7 @@ class PromptInput:
                     lambda n: re.search(r"^[a-z]+ *[a-z]*$", n, re.IGNORECASE),
                     "Invalid Name..."
                 )
+
                 min_age, max_age = (20, 50) if user_type.lower() == "t" else (10, 20)
                 age = cls.prompt_validation(
                     "Age: ",
