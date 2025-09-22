@@ -1,4 +1,4 @@
-# Numpy Practice: arange
+# Numpy Practice: arange, linspace
 # (੭ु｡╹▿╹｡)੭ु⁾⁾
 # Numpy Practice:
 import numpy as np
