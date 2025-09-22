@@ -1,4 +1,4 @@
-# Numpy Practice: arange
+# Numpy Practice: arange, zip(), char
 # (੭ु｡╹▿╹｡)੭ु⁾⁾
 # Numpy Practice:
 import numpy as np

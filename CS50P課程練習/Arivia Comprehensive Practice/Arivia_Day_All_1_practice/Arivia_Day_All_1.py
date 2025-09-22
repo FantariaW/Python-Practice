@@ -20,7 +20,8 @@ class Person:
     def get_person(self) -> tuple[str, int]:
         return self.name, self.age
 
-    def to_dict(self) -> dict:
+    @staticmethod
+    def to_dict() -> dict:
         return {
             "name": "",
             "age": "",
