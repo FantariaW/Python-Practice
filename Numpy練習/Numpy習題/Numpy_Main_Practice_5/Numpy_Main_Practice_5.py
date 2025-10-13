@@ -9,7 +9,7 @@ class ToySaleGenerator:
     @staticmethod
     def generator():
         sale_array = np.random.randint(5, 31, 24).reshape(4, 6)
-        part1 = sale_array[:, :2]  # 取前 2 列 (0, 1) 不包含 2
+        part1 = sale_array[:, 0:2]  # 取前 2 列 (0, 1) 不包含 2
         part2 = sale_array[:, 2:]  # 取从第 2 列开始往后所有列
 
         return [part1, part2]
